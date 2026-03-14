@@ -1,0 +1,14 @@
+E:\Programming-Projects\Weather-API\Weather-API\bin\Debug\net10.0\Weather-API.exe
+E:\Programming-Projects\Weather-API\Weather-API\bin\Debug\net10.0\Weather-API.deps.json
+E:\Programming-Projects\Weather-API\Weather-API\bin\Debug\net10.0\Weather-API.runtimeconfig.json
+E:\Programming-Projects\Weather-API\Weather-API\bin\Debug\net10.0\Weather-API.dll
+E:\Programming-Projects\Weather-API\Weather-API\bin\Debug\net10.0\Weather-API.pdb
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.AssemblyInfoInputs.cache
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.AssemblyInfo.cs
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.csproj.CoreCompileInputs.cache
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.dll
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\refint\Weather-API.dll
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.pdb
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\Weather-API.genruntimeconfig.cache
+E:\Programming-Projects\Weather-API\Weather-API\obj\Debug\net10.0\ref\Weather-API.dll
